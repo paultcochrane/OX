@@ -80,7 +80,7 @@ features can be added by providing your own request (sub)class.
 Additionally, OX provides an easy-to-use "sugar" layer (based on
 L<Bread::Board::Declare>) that makes writing a web application as easy as
 writing any Moose class. The OX sugar layer supports the full complement of
-Moose features (attributes, roles, and more), as well as addiitonal sugar
+Moose features (attributes, roles, and more), as well as additional sugar
 methods for mapping request routes to object methods. (See
 L<Bread::Board::Declare>, L<OX::Application::Role::Router::Path::Router>, and
 L<OX::Application::Role::RouteBuilder> for more detailed information.) You're
