@@ -1,4 +1,5 @@
 package OX::Meta::Mount::App;
+
 use Moose;
 use namespace::autoclean;
 

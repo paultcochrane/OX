@@ -1,4 +1,5 @@
 package OX::Meta::Middleware;
+
 use Moose;
 use namespace::autoclean;
 

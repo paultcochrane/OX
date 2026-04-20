@@ -1,4 +1,5 @@
 package OX::Types;
+
 use strict;
 use warnings;
 

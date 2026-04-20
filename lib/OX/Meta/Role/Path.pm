@@ -1,4 +1,5 @@
 package OX::Meta::Role::Path;
+
 use Moose::Role;
 use namespace::autoclean;
 

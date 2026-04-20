@@ -1,4 +1,5 @@
 package OX::RouteBuilder::ControllerAction;
+
 use Moose;
 use namespace::autoclean;
 # ABSTRACT: OX::RouteBuilder which routes to an action method in a controller class

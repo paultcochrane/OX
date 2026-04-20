@@ -1,4 +1,5 @@
 package OX::Meta::Conflict;
+
 use Moose;
 use namespace::autoclean;
 

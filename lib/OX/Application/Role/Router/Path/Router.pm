@@ -1,4 +1,5 @@
 package OX::Application::Role::Router::Path::Router;
+
 use Moose::Role;
 use namespace::autoclean;
 # ABSTRACT: implementation of OX::Application::Role::Router which uses Path::Router

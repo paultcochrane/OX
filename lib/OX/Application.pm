@@ -1,4 +1,5 @@
 package OX::Application;
+
 use Moose 2.0200;
 use namespace::autoclean;
 # ABSTRACT: base class for OX applications

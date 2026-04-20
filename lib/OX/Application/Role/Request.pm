@@ -1,4 +1,5 @@
 package OX::Application::Role::Request;
+
 use Moose::Role;
 use namespace::autoclean;
 # ABSTRACT: application role to allow the use of request and response objects

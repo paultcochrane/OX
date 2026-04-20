@@ -1,4 +1,5 @@
 package OX::Role;
+
 use Moose::Exporter;
 use 5.010;
 # ABSTRACT: declare roles for your OX applications

@@ -1,4 +1,5 @@
 package OX::Request;
+
 use Moose;
 use namespace::autoclean;
 # ABSTRACT: request object for OX

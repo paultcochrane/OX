@@ -1,4 +1,5 @@
 package OX::Meta::Role::Application::ToInstance;
+
 use Moose::Role;
 use namespace::autoclean;
 

@@ -1,4 +1,5 @@
 package OX::RouteBuilder;
+
 use Moose::Role;
 use namespace::autoclean;
 # ABSTRACT: abstract role for classes that turn configuration into a route

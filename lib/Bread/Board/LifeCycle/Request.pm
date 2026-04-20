@@ -1,4 +1,5 @@
 package Bread::Board::LifeCycle::Request;
+
 use Moose::Role;
 use namespace::autoclean;
 # ABSTRACT: lifecycle for request-scoped services

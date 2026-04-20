@@ -1,4 +1,5 @@
 package OX::Application::Role::Sugar;
+
 use Moose::Role;
 use namespace::autoclean;
 

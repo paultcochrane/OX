@@ -1,4 +1,5 @@
 package OX::RouteBuilder::HTTPMethod;
+
 use Moose;
 use namespace::autoclean;
 # ABSTRACT: OX::RouteBuilder which routes to a method in a controller based on the HTTP method

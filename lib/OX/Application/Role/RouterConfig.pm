@@ -1,4 +1,5 @@
 package OX::Application::Role::RouterConfig;
+
 use Moose::Role;
 use namespace::autoclean;
 # ABSTRACT: adds some common shortcuts to route declarations from OX::Application::Role::RouteBuilder

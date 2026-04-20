@@ -1,4 +1,5 @@
 package OX::Response;
+
 use Moose;
 use namespace::autoclean;
 # ABSTRACT: response object for OX

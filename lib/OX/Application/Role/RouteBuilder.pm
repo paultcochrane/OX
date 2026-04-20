@@ -1,4 +1,5 @@
 package OX::Application::Role::RouteBuilder;
+
 use Moose::Role;
 use namespace::autoclean;
 # ABSTRACT: application role to configure a router based on a static description

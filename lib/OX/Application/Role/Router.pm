@@ -1,4 +1,5 @@
 package OX::Application::Role::Router;
+
 use Moose::Role;
 use namespace::autoclean;
 # ABSTRACT: base role for applications with routers

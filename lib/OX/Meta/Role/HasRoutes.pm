@@ -1,4 +1,5 @@
 package OX::Meta::Role::HasRoutes;
+
 use Moose::Role;
 use namespace::autoclean;
 

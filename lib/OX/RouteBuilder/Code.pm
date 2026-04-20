@@ -1,4 +1,5 @@
 package OX::RouteBuilder::Code;
+
 use Moose;
 use namespace::autoclean;
 # ABSTRACT: OX::RouteBuilder which routes to a coderef

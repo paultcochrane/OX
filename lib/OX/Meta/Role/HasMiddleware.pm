@@ -1,4 +1,5 @@
 package OX::Meta::Role::HasMiddleware;
+
 use Moose::Role;
 use namespace::autoclean;
 
