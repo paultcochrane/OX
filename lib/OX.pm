@@ -551,10 +551,6 @@ L<https://github.com/iinteractive/OX>
 
 L<http://rt.cpan.org/NoAuth/Bugs.html?Dist=OX>
 
-=item * CPAN Ratings
-
-L<http://cpanratings.perl.org/d/OX>
-
 =back
 
 =for Pod::Coverage
